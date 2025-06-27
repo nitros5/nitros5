@@ -1,13 +1,13 @@
-<h1 align="center">Hey 👋, I'm Dr. Nitros!</h1>
+  <h1 align="center">Hey 👋, I'm Dr. Nitros!</h1>
 
 <p align="center">
-  <a href="https://www.youtube.com/@Dr_Nitros" target="_blank">
+  <a href="https://www.youtube.com/@Dr_Nitro" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" height="25px"/>
   </a>
-  <a href="https://t.me/D_R_5_N" target="_blank">
+  <a href="https://t.me/+lvhqAUfgNMY3NTU0" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" height="25px"/>
   </a>
-  <a href="https://t.me/N_itrous" target="_blank">
+  <a href="https://t.me/+lvhqAUfgNMY3NTU0" target="_blank">
     <img alt="Telegram Channel" src="https://img.shields.io/badge/Channel-Telegram-blue?logo=telegram&logoColor=white" height="25px"/>
   </a>
   <a href="https://discord.com/invite/q8Km7ZJBCf" target="_blank">
